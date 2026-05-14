@@ -1,4 +1,4 @@
-# 
+# Enhance KeePassXC for macOS with professional KeePassXC for macOS Integration | biometric-login + password-sharing, the #1 integration. Includes biometric-login and
 
 
 
